@@ -11,7 +11,7 @@ import { store } from "./store";
 ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter>
+      <BrowserRouter basename="/rest-countries-api-with-color-theme-switcher">
         <App />
       </BrowserRouter>
     </Provider>
