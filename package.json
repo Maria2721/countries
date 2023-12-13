@@ -1,8 +1,8 @@
 {
-  "name": "rest-countries-api-with-color-theme-switcher",
+  "name": "countries",
   "version": "0.1.0",
   "author": "Maria Ivanova",
-  "homepage": "https://maria2721.github.io/rest-countries-api-with-color-theme-switcher",
+  "homepage": "https://maria2721.github.io/countries",
   "private": true,
   "dependencies": {
     "axios": "^0.22.0",
